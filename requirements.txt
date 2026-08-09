@@ -23,7 +23,7 @@ configobj==5.0.6
 configparser==7.2.0
 constantly==15.1.0
 cryptography==3.4.8
-cupshelpers==1.0
+
 dbus-python==1.2.18
 deep-translator==1.11.4
 defer==1.0.6
