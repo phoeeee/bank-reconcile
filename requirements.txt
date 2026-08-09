@@ -31,7 +31,7 @@ distro==1.7.0
 
 dnspython==2.1.0
 docopt==0.6.2
-duplicity==0.8.21
+
 egyptian-id-validator==0.4.4
 et-xmlfile==1.1.0
 etelemetry==0.3.1
